@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="118b09d0-2053-4a93-935b-18c82abd1bfc" name="iplux" url="https://iplux.ru">
+        <fileTransfer rootFolder="/home/django/" accessType="SFTP" host="31.129.105.176" port="22" sshConfigId="eee129cd-b92a-4dbf-943c-d0d4420be60b" sshConfig="root@31.129.105.176:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" isUseSudo="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
